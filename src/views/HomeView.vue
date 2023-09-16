@@ -12,7 +12,7 @@
         </div>
         <div class="photo">
           <h3 class="photo__title title-3">Cо старшей школы</h3>
-          <img class="photo__image" alt="Последнее Селфи" src="@/assets/images/my-self.jpg" />
+          <img class="photo__image" alt="Последнее фото со старшей школы" src="@/assets/images/school.jpg" />
         </div>
       </div>
     </section>
