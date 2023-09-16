@@ -62,7 +62,7 @@
 .photos {
   display: flex;
   justify-content: space-between;
-  align-items: flex-end;
+  align-items: center;
   column-gap: 2rem;
 }
 
@@ -88,7 +88,12 @@
 }
 
 .photo__image {
-  width: 100%;
+  height: 100%;
+  
+  max-width: 20rem;
+  min-width: 4rem;
+  width: auto;
+  
 }
 
 </style>
