@@ -32,6 +32,10 @@
       <h2 class="content__title title-2">Видео о программировании</h2>
       <video class="video" controls><source src="@/assets/videos/untitled.mp4" type="video/mp4" /></video>
     </section>
+    <section class="content__block">
+      <h2 class="content__title title-2">Ссылка на код</h2>
+      <a href="https://github.com/A-ST-RA/yandex-pract-test">https://github.com/A-ST-RA/yandex-pract-test</a>
+    </section>
   </main>
 </template>
 
