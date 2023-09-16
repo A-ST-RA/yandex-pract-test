@@ -28,6 +28,10 @@
         Так я и познакомился с прорграммированием, далее я развивался в этом направлении и это стало моим любимым делом.
       </p>
     </section>
+    <section class="content__block">
+      <h2 class="content__title title-2">Видео о программировании</h2>
+      <video class="video" controls><source src="@/assets/videos/untitled.mp4" type="video/mp4" /></video>
+    </section>
   </main>
 </template>
 
@@ -56,6 +60,10 @@
   justify-content: space-between;
   align-items: flex-end;
   column-gap: 2rem;
+}
+
+.video {
+  width: 100%;
 }
 
 .photo {
